@@ -18,7 +18,7 @@ h2 {
 }
 
 a {
-  color: #ff0055;
+  color: #fa5508;
   text-decoration: none;
 }
 
@@ -29,7 +29,7 @@ a:hover {
 
 button {
   padding: 1rem;
-  color: #ff0055;
+  color: #ff0015;
   font: inherit;
   border: none;
   cursor: pointer;
@@ -58,7 +58,7 @@ section {
   margin: 0 0 2rem 0;
   padding: 2rem;
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.26);
-  background: white;
+  background: rgb(233, 224, 107);
   border-radius: 10px;
 }
 
@@ -78,7 +78,7 @@ section {
 
 .modal h2 {
   padding: 1rem;
-  border-bottom: 1px solid #ccc;
+  border-bottom: 1px solid rgb(90, 4, 4);
 }
 
 .modal p {
@@ -110,7 +110,7 @@ section {
 
 #main-header {
   padding: 2rem 2rem;
-  background: #ff0055;
+  background: #c55205;
   color: white;
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.26);
 }
@@ -124,7 +124,7 @@ section {
 #instructor-info {
   display: flex;
   align-items: center;
-  border-bottom: 2px solid #ff0055;
+  border-bottom: 2px solid #fffb00;
   padding-bottom: 1rem;
 }
 
@@ -133,7 +133,7 @@ section {
   height: 5rem;
   border-radius: 50%;
   object-fit: cover;
-  border: 1px solid #ccc;
+  border: 1px solid rgb(224, 109, 109);
 }
 
 #instructor-info ul {
